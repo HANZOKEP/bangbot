@@ -1,6 +1,6 @@
 /*
-› Create By @Jaka
-› Base Ori @Jaka
+› Create By @verdi
+› Base Ori @verdi okep
 › Kalau mau tambahin fitur di index.js
 › Edit text menu di file language › help.js
 */
@@ -22,14 +22,14 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6285785694474','6281335334848','6281335334848'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6285785694474'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6285785694474' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6285706735450','6283869803330','6283869803330'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6283869803330'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6285706735450' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Jaka' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Alyrine-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Jaka' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'verdi' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'verdibotz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'verdi' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
@@ -41,8 +41,8 @@ global.email = 'jkasmprn@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Alyrine-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Jaka' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© verdi' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'verdi' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
